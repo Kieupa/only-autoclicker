@@ -1,6 +1,6 @@
 # OnlyAutoclicker
 
-A fully functional autoclicker application with a user-friendly GUI.
+A fully functional autoclicker application with a user-friendly GUI. Everything made in Cursor with zero coding experience (vibe coding i guess)
 
 ## Features
 
