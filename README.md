@@ -2,6 +2,8 @@
 
 A fully functional autoclicker application with a user-friendly GUI. Everything made in Cursor with zero coding experience (vibe coding i guess)
 
+This readme is also fully made by AI, i will work on it someday
+
 ## Features
 
 - **Customizable Click Interval**: Set click speed from 0.01 to 10 seconds
